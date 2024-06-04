@@ -26,6 +26,8 @@ In light of the critical challenge and urgent need to manage data in the statefu
 Yijian Liu is currently a PhD student in Department of Computer Science at Copenhagen University. She is supervised by professor Yongluan Zhou. Her research work mainly focuses on building efficient and scalable data management solutions on actor systems. One of her research work “Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor systems” was published in a top conference Sigmod in 2022. Her other works are bringing more database features to the stateful actor-oriented application layer.
 </details>
 
+<p>&nbsp;</p>
+
 **Talk 1:** Rodrigo Laigner
 
 **Title**: *Benchmarking Data Management Systems for Microservices* 
@@ -42,6 +44,8 @@ After specifying the benchmark, we present the challenges we faced in creating w
 Rodrigo Laigner is a PhD fellow in the Department of Computer Science at University of Copenhagen under the supervision of Prof. Yongluan Zhou. His research targets building efficient and consistent database systems for data management requirements found in modern data-intensive applications, such as those following the microservice architectural style. 
 </details>
 
+<p>&nbsp;</p>
+
 **Talk 2:** Rafael Castro Goncalves Silva
 
 **Title**: *Verified Time-Aware Stream Processing*
@@ -53,6 +57,8 @@ Stream processing frameworks provide programming abstractions that allow their u
 <details><summary><b>Bio</b></summary>
 Rafael Castro G. Silva researches formal verification of software. More precisely, software that manifests "real-world" behavior like side effects, and non-termination. His Ph.D research focuses on verifying stream processing programs, that are usually written using frameworks like Apache Flick and Timely Dataflow. Other topics of his interest are proof assistants, functional programming, and type systems.
 </details>
+
+<p>&nbsp;</p>
 
 12:00 - 13:00 **Lunch Break**
 
@@ -72,19 +78,21 @@ explanations. I will demonstrate WhyMon's usage throughout the talk.
 I am a PhD student in Computer Science at the University of Copenhagen, under the supervision of Dmitriy Traytel. I am interested in building reliable systems. Hence, I do (research in) formal methods. I started my research endeavours in the areas of proof theory and interactive theorem proving. Nowadays I spend most of my time doing research in runtime verification. I am particularly interested in the development of explainable runtime monitoring tools.
 </details>
 
+<p>&nbsp;</p>
+
 **Talk 4:** Hubert D. Zając
 
 **Title**: *"It depends": Configuring AI to Improve Clinical Usefulness Across Contexts*
-
 
 <details><summary><b>Abstract</b></summary>
 Artificial Intelligence (AI) repeatedly match or outperform radiologists in lab experiments. However, real-world implementations of radiological AI-based systems are found to provide little to no clinical value. This paper explores how to design AI for clinical usefulness in different contexts. We conducted 19 design sessions and design interventions with 13 radiologists from 7 clinical sites in Denmark and Kenya, based on three iterations of a functional AI-based prototype. Ten sociotechnical dependencies were identified as crucial for the design of AI in radiology. We conceptualised four technical dimensions that must be configured to the intended clinical context of use: AI functionality, AI medical focus, AI decision threshold, and AI Explainability. We present four design recommendations on how to address dependencies pertaining to the medical knowledge, clinic type, user expertise level, patient context, and user situation that condition the configuration of these technical dimensions.
 </details>
 
-
 <details><summary><b>Bio</b></summary>
 Hubert D. Zając did his PhD on healthcare AI in Denmark and Kenya. He spent his fair share creating value for shareholders as a UX designer and software developer, which motivated him to try creating value for society instead. He is now a Postdoc at the University of Copenhagen researching methods of realisation of AI in the industry, and a member of the Confronting Data Co-Lab. He is interested in exploring the truth behind medical data, especially how data is collected, designed, labelled, and used. His research and passions also converge in exploring the challenges and opportunities of applying AI in real-world settings. He is always up for a chat about data creation, AI, or the real-world inadequacy of heatmaps.
 </details>
+
+<p>&nbsp;</p>
 
 14:00 - 14:30 **Coffee Break**
 
@@ -93,7 +101,6 @@ Hubert D. Zając did his PhD on healthcare AI in Denmark and Kenya. He spent his
 **Talk 1:** Petros Petsinis
 
 **Title**: *Seed Selection in the Heterogeneous Moran Process*
-
 
 <details><summary><b>Abstract</b></summary>
 The Moran process is a classic stochastic process that models the rise
@@ -120,15 +127,15 @@ along with various heuristics on real-world data sets corroborates our
 results.
 </details>
 
-
 <details><summary><b>Bio</b></summary>
 Petros Petsinis is a PhD student at the Computer Science Department of Aarhus University in Denmark. He obtained his bachelor’s degree from the Department of Informatics, AUTH Greece (2020). He also holds a master’s degree in computer science from the Department of Informatics and Telecommunications, NKUA Greece (2022). His main interests are in the area of network analysis, artificial intelligence, and combinatorial optimization.
 </details>
 
+<p>&nbsp;</p>
+
 **Talk 2:** Xikun Jiang
 
 **Title**: *Privacy-Preserving UCB Decision Process Verification via zk-SNARKs*
-
 
 <details><summary><b>Abstract</b></summary>
 With the increasingly widespread application of machine learning, how to
@@ -152,7 +159,6 @@ ongoing discourse on reinforcing data privacy in complex decision-making
 processes, offering a promising solution for privacy-sensitive applications.
 </details>
 
-
 <details><summary><b>Bio</b></summary>
 Xikun Jiang is a Postdoctoral Fellow at the University of Copenhagen and
 part of the Software, Data, People & Society (SDPS) Section. Her
@@ -162,10 +168,11 @@ novel techniques in data trading. Additionally, she is also interested
 in verifiable machine learning and blockchain.
 </details>
 
+<p>&nbsp;</p>
+
 **Talk 3:** Petros Petsinis
 
 **Title**: *Robust Reward Placement under Uncertainty*
-
 
 <details><summary><b>Abstract</b></summary>
 We consider a problem of placing generators of rewards to be collected
@@ -189,7 +196,6 @@ max–min 0–1 KNAPSACK problem. We corroborate our theoretical analysis
 with an experimental evaluation on synthetic and real data.
 </details>
 
-
 <details><summary><b>Bio</b></summary>
 Petros Petsinis is a PhD student at the Computer Science Department of
 Aarhus University in Denmark. He obtained his bachelor’s degree from the
@@ -199,6 +205,8 @@ Telecommunications, NKUA Greece (2022). His main interests are in the
 area of network analysis, artificial intelligence, and combinatorial
 optimization.
 </details>
+
+<p>&nbsp;</p>
 
 16:00 **End of Scientific Programme**
 
