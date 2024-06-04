@@ -7,7 +7,7 @@ The event will take place at SCI-DIKU-UP1-01-2-16.
 
 ### Programme:
 
-10:00 - 12:00 Morning session: Data Management and Data Streaming 
+10:00 - 12:00 **Morning session:** Data Management and Data Streaming 
 
 **[Keynote talk]:** Yijian's PhD
 
@@ -55,7 +55,7 @@ Rafael Castro G. Silva researches formal verification of software. More precisel
 
 12:00 - 13:00 **Lunch Break**
 
-13:00 - 14:00 Afternoon session 1: Runtime Monitoring and AI
+13:00 - 14:00 **Afternoon session 1:** Runtime Monitoring and AI
 
 **Talk 3:** Leonardo Lima
 
@@ -84,7 +84,7 @@ Hubert D. Zając did his PhD on healthcare AI in Denmark and Kenya. He spent his
 
 14:00 - 14:30 **Coffee Break**
 
-14:00 - 16:00 Afternoon session 2: Forthcoming IJCAI talks
+14:00 - 16:00 **Afternoon session 2:** Forthcoming IJCAI talks
 
 **Talk 1:** Petros Petsinis
 
