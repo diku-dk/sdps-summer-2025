@@ -84,7 +84,7 @@ Hubert D. Zając did his PhD on healthcare AI in Denmark and Kenya. He spent his
 
 14:00 - 14:30 **Coffee Break**
 
-14:00 - 16:00 **Afternoon session 2:** Forthcoming IJCAI talks
+14:30 - 16:00 **Afternoon session 2:** Forthcoming IJCAI talks
 
 **Talk 1:** Petros Petsinis
 
