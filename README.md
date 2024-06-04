@@ -194,5 +194,6 @@ optimization.
 
 ### Organisers
 - Panagiotis Karras
+
 ### Web content
 - Rodrigo Laigner
