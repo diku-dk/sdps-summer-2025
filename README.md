@@ -69,13 +69,12 @@ Rafael Castro G. Silva researches formal verification of software. More precisel
 **Title**: *WhyMon: A Runtime Monitoring Tool with Explanations as Verdicts*
 
 <details><summary><b>Abstract</b></summary>
-I will present WhyMon, a runtime monitoring tool that produces explanations as verdicts. Receiving as input a metric first-order temporal logic (MFOTL) formula and a stream prefix of time-stamped data-carrying events, WhyMon incrementally outputs explanations that describe why each variable assignment satisfies or violates the formula. The tool includes a graphical user interface that facilitates the exploration and understanding of these explanations. Additionally, it incorporates a formally verified checker that can certify the
-explanations. I will demonstrate WhyMon's usage throughout the talk.
+WhyMon is a runtime monitoring tool that produces explanations as verdicts. Receiving as input a metric first-order temporal logic (MFOTL) formula and a stream prefix of time-stamped data-carrying events, WhyMon incrementally outputs explanations that describe why each variable assignment satisfies or violates the formula. The tool includes a graphical user interface that facilitates the exploration and understanding of these explanations. Additionally, it incorporates a formally verified checker that can certify the explanations. WhyMon's usage will be demonstrated throughout the talk.
 </details>
 
 
 <details><summary><b>Bio</b></summary>
-I am a PhD student in Computer Science at the University of Copenhagen, under the supervision of Dmitriy Traytel. I am interested in building reliable systems. Hence, I do (research in) formal methods. I started my research endeavours in the areas of proof theory and interactive theorem proving. Nowadays I spend most of my time doing research in runtime verification. I am particularly interested in the development of explainable runtime monitoring tools.
+Leonardo Lima is a PhD student in Computer Science at the University of Copenhagen, under the supervision of Dmitriy Traytel. He is interested in building reliable systems. He started his research endeavours in the areas of proof theory and interactive theorem proving. Nowadays he spends most of his time doing research in runtime verification. He is particularly interested in the development of explainable runtime monitoring tools.
 </details>
 
 <p>&nbsp;</p>
