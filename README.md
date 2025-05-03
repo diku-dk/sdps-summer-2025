@@ -1,6 +1,6 @@
 # SDPS Summer Rehearsal 2025
 
-On Wednesday, May 14 there will be an event in which everybody interested and willing will practice their chosen forthcoming PhD defense, summer-conference presentation, or any other talk for which feedback and practice is desirable. For confirmed atendees, lunch will be provided.
+On Wednesday, May 14 there will be an event in which everybody interested and willing will practice their chosen forthcoming PhD defense, summer-conference presentation, or any other talk for which feedback and practice is desirable. For confirmed attendees, lunch will be provided.
 
 ### Location:
 The event will take place at SCI-DIKU-UP1-1-1-N116A. 
