@@ -7,6 +7,8 @@ The event will take place at SCI-DIKU-UP1-1-1-N116A.
 
 ### Programme:
 
+10:30 - 12:00 **Data Management Session**
+
 **Talk 1**: *vMODB: Unifying event and data management for distributed asynchronous applications*
 
 **Speaker:** Rodrigo Laigner
@@ -22,6 +24,8 @@ Rodrigo Laigner is soon defending his PhD at University of Copenhagen and is now
 
 <p>&nbsp;</p>
 
+11:10 - 11:20 **Coffee Break**
+
 **Talk 2:** *PILOS: Scalable Large-Subgraph Matching by Online Spectral Filtering*
 
 **Speaker:** Konstantinos Skitsas
@@ -35,6 +39,10 @@ Konstantinos Skitsas is a PhD student at Aarhus University, where he also obtain
 </details>
 
 <p>&nbsp;</p>
+
+12:00 - 13:00 **Lunch Break**
+
+13:00 - ?:00 **Logic Session**
 
 **Talk 3**: *Nondeterministic Asynchronous Dataflow in Isabelle/HOL*
 
@@ -50,7 +58,9 @@ Rafael Castro G. Silva researches formal verification of software. More precisel
 
 <p>&nbsp;</p>
 
-**Talk 4**: *To be announced*
+**Coffee Break**
+
+**Talk 4**: *Smullyan’s Unifying Principle in Isabelle/HOL*
 
 **Speaker:** Asta Halkjær
 
