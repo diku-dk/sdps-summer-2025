@@ -26,6 +26,8 @@ Rodrigo Laigner is soon defending his PhD at University of Copenhagen and is now
 
 11:10 - 11:20 **Coffee Break**
 
+<p>&nbsp;</p>
+
 **Talk 2:** *PILOS: Scalable Large-Subgraph Matching by Online Spectral Filtering*
 
 **Speaker:** Konstantinos Skitsas
@@ -41,6 +43,8 @@ Konstantinos Skitsas is a PhD student at Aarhus University, where he also obtain
 <p>&nbsp;</p>
 
 12:00 - 13:00 **Lunch Break**
+
+<p>&nbsp;</p>
 
 13:00 - ?:00 **Logic Session**
 
@@ -59,6 +63,8 @@ Rafael Castro G. Silva researches formal verification of software. More precisel
 <p>&nbsp;</p>
 
 **Coffee Break**
+
+<p>&nbsp;</p>
 
 **Talk 4**: *Smullyan’s Unifying Principle in Isabelle/HOL*
 
