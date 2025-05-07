@@ -48,7 +48,7 @@ Konstantinos Skitsas is a PhD student at Aarhus University, where he also obtain
 
 <p>&nbsp;</p>
 
-13:00 - ?:00 **Logic Session**
+13:00 **Logic Session**
 
 **Talk 3**: *Nondeterministic Asynchronous Dataflow in Isabelle/HOL*
 
@@ -78,6 +78,24 @@ There are many known results in first-order logic: Gödel’s completeness theor
 
 <details><summary><b>Bio</b></summary>
 Asta Halkjær From has a PhD from DTU Compute and is now a postdoc at SDPS. She is sometimes a logician in computer science, and sometimes a computer scientist amongst logicians, but almost always a proof assistant user.
+</details>
+
+<p>&nbsp;</p>
+
+**Coffee Break**
+
+<p>&nbsp;</p>
+
+**Talk 5**: *PhD Startup Seminar - Distributed Streaming Computations, Verified*
+
+**Speaker:** Mathias Schack Rabing
+
+<details><summary><b>Abstract</b></summary>
+This PhD project is part of what is called the DISCOVER project, where the goal is to make the first formally verified distributed streaming processing. These types of programs are very useful when handling large amounts of data, but there are many errors in the programs that can be difficult to catch using normal testing techniques, which results in them being quite error prone. Therefor to create a more trustworthy program we will use formally verify it, using Isabelle. The initial plan is that my contribution to the project is to help implementing the distribution part of the project.
+</details>
+
+<details><summary><b>Bio</b></summary>
+Mathias Schack Rabing has just started his PhD at the SPDS section of DIKU. The focus of the PhD is to create and verify a distributed streaming process inspired by Timely Dataflow.
 </details>
 
 <p>&nbsp;</p>
